@@ -20,3 +20,9 @@ For detailed information on our API endpoints, refer to the [API documentation](
 We've set up a Discord server with dedicated channels for various project-related discussions. GitHub webhooks are integrated into the Discord server to keep track of pull requests and ensure everyone stays informed.
 
 ![Discord Server](https://github.com/ynov-2024-m1-team-1/.github/assets/40648068/80601ef6-78d0-4cf4-920a-228a72d786fe)
+
+## GitHub Project and Issue Management
+
+To enhance our workflow, we utilize GitHub Projects linked with GitHub Issues. This integration streamlines the process of merging and pulling the code. The GitHub Project board provides a visual representation of the project's progress and helps us manage tasks effectively.
+
+Feel free to explore the GitHub Project board [here](https://github.com/orgs/ynov-2024-m1-team-1/projects/1).
