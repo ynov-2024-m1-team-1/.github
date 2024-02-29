@@ -13,7 +13,7 @@ Both the backend and frontend are hosted on Heroku Dynamo with a Continuous Depl
 
 ## API Documentation
 
-For detailed information on our API endpoints, refer to the [API documentation](https://team-api.faldin.xyz/api-docs). It provides insights into the available routes and functionalities for seamless integration.
+For detailed information on our API endpoints, refer to the [API documentation](https://team-api.faldin.xyz/api-docs) (based on swagger). It provides insights into the available routes and functionalities for seamless integration.
 
 ## Collaboration Channels
 
